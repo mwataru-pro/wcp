@@ -4,7 +4,7 @@ public class Chapter05 {
     long long1 = 9223372036854775807L;
     System.out.println(long1);
 
-    double double1 = 0.01d;
+    double double1 = 0.01;
     System.out.print(double1);
 
     boolean boolean1 = false;
