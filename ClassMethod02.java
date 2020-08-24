@@ -1,3 +1,5 @@
+//Eclipseより記述コピーペースト
+
 // パッケージがclassMethodと宣言
 package classMethod;
 
