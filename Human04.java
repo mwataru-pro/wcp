@@ -1,3 +1,5 @@
+// Eclipseから学習記録のためコピーペースト
+
 package classMethod.human;
 
 public class Human04 {
